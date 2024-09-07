@@ -4,7 +4,7 @@ SEOTitle: kai | kai's Blog
 header-img: img/home-bg.jpg
 email: fkai56525@gmail.com
 description: "The youth, the scenery along the way again also is just a paper elegance. | 未来可期！"
-keyword: "kai, 未来, 明天, 今天, 昨天, 你, 我, kai's blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+keyword: "kai, 未来, 明天, 今天, 昨天, 你, 我, kai's blog, 博客, 个人网站, 互联网, Web, QU, 100001000, ART, 前端, 设计"
 url: "https://https://space.bilibili.com/431820998" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -81,10 +81,6 @@ sidebar-avatar: https://ooo.0x0.ooo/2024/09/07/Ot3Xaq.jpg # use absolute URL, se
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
 featured-condition-size: 1 # A tag will be featured if the size of it is more than this condition value
-
-# Livere来必力
-labili: true
-labili_uid: MTAyMC82MDExNy8zNjU4Mw==
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
