@@ -90,13 +90,13 @@ service-worker: true
 page-mathjax: true
 
 # Friends
-其他链接:
+friends:
   [
     { title: "纳西妲", href: "https://ooo.0x0.ooo/2024/09/07/Ot3sut.jpg" },
     { title: "纳西妲", href: "https://ooo.0x0.ooo/2024/09/07/Ot3YFx.jpg" },
     { title: "my bilibili", href: "https://space.bilibili.com/431820998" },
     { title: "else", href: "https://cyfz6.us.kg" },
     { title: "看会抖音吧", href: "http://douyin.com" },
-    { title: "my senior high school", href: "https://www.ts1z.cn/index" },
+    { title: "第二个我", href: "https://blog-ejo.pages.dev/" },
     { title: "女朋友", href: "https://ooo.0x0.ooo/2024/09/07/Ot3fPj.jpg" },
   ]
